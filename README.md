@@ -12,20 +12,20 @@ Required:
 
 HOW TO RUN SCRIPT:
 1. First request a file download of your followers and following from Meta via the above link, if you don't link clicking random links on the internet, follow these steps:
-    a. Go to your instagram account (via a computer, cannot be performed on mobile)
-    b. Click the hamburger menu labeled 'More' in the bottom left and select 'Settings'
-    c. Go to Meta's 'Accounts Center' by clicking 'See more in Accounts Center'
-    d. Click 'Your information and permissions'
-    e. Click 'Download your information'
-    f. Click 'Download or transfer information'
-    g. Select your account
-    h. Select 'Some of your information'
-    i. Select 'Followers and following'
-    j. Select 'Download to Device'
-    k. Select Date range as you see fit, most people will want to select 'All Time'
-    l. Select e-mail you would like the files to be sent to
-    m. Change the format from HTML to JSON ... media quality is irrelevant 
-    n. Click 'Create files'
+        a. Go to your instagram account (via a computer, cannot be performed on mobile)
+        b. Click the hamburger menu labeled 'More' in the bottom left and select 'Settings'
+        c. Go to Meta's 'Accounts Center' by clicking 'See more in Accounts Center'
+        d. Click 'Your information and permissions'
+        e. Click 'Download your information'
+        f. Click 'Download or transfer information'
+        g. Select your account
+        h. Select 'Some of your information'
+        i. Select 'Followers and following'
+        j. Select 'Download to Device'
+        k. Select Date range as you see fit, most people will want to select 'All Time'
+        l. Select e-mail you would like the files to be sent to
+        m. Change the format from HTML to JSON ... media quality is irrelevant 
+        n. Click 'Create files'
 
 2. You've now requested your files, wait for an email from Meta/Instagram
    a. Download the files from the provided link from Meta, this will download a zip file to your computer 
