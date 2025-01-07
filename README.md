@@ -36,8 +36,8 @@ This includes detailed instructions on how to run so those with more technical k
 - Find the path for the files 'followers_1.json' and 'following.json' remember those two files you dragged out of the zipped folder? Save the path on your clipboard.
 - Your file path should look something like this (assuming windows machine) -> C:\Users\CHANGE_ME\Desktop\followers_1.json
 - Open the python file (the one from this git repo) and change the file path for both python variables on lines 8 and 9:
-        - followers_path = r'C:\Users\CHANGE_ME\Desktop\followers_1.json'
-        - following_path = r'C:\Users\CHANGE_ME\Desktop\following.json'
+  - followers_path = r'C:\Users\CHANGE_ME\Desktop\followers_1.json'
+  - following_path = r'C:\Users\CHANGE_ME\Desktop\following.json'
 
 **4. Now that the file paths are updated run the script in the terminal or your prefered IDE**
 -  python .\instagram_following.py
